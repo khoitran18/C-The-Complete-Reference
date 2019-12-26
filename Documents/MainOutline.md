@@ -19,6 +19,7 @@
 **How to use it?**
 
 **<a name="Part1"></a>Part 1: Foundational C**
+
 Chapter 1: An Overview of C
 
 Chapter 2: Expressions
@@ -42,10 +43,12 @@ Chapter 10: The Preprocessor and Comments
 
 
 **<a name="Part2"></a>Part 2: The C99 Standard**
+
 Chapter 11: C99
 
 
 **<a name="Part3"></a>Part 3: The C99 Standard Library**
+
 Chapter 12: Linking, Libraries, and Headers
 
 Chapter 13: I/O Functions
