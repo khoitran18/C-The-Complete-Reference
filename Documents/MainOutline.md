@@ -1,6 +1,6 @@
-#What is it?
+**What is it?**
 
-#Table of content
+**Table of content**
 
 [Part 1: Foundational C](#Part1)
 
@@ -14,9 +14,9 @@
 
 [Part 6: A C Interpreter](#Part6)
 
-#Why use it?
+**Why use it?**
 
-#How to use it?
+**How to use it?**
 
 #<a name="Part1"></a>Part 1: Foundational C
 Chapter 1: An Overview of C
