@@ -1,5 +1,7 @@
 **<a name="Whatisit"></a>What is it?**
 
+This is my self-study plan to learn C programing language and understand every aspect of it.
+
 **Table of content**
 
 [What is it?](#Whatisit)
@@ -22,7 +24,11 @@
 
 **<a name="Whyuseit"></a>Why use it?**
 
+There are hundreds to thousands of book you can find out there at the book store or ebook website. But **C: The Complete Reference, 4th edition by McGraw-Hill** is a must-read book that can help the beginners to get used to C programing language in the "easiest" way.
+
 **<a name="Howtouse"></a>How to use it?**
+
+This page's outline follow the original outline of **C: The Complete Reference, 4th edition by McGraw-Hill**. So it will be more comfortable for readers to follow.
 
 **<a name="Part1"></a>Part 1: Foundational C**
 
