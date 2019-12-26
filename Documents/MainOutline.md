@@ -1,5 +1,6 @@
 #What is it?
 #Table of content
+
 [Part 1: Foundational C](#Part1)
 
 [Part 2: The C99 Standard](#Part2)
