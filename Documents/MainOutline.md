@@ -18,7 +18,7 @@
 
 **How to use it?**
 
-#<a name="Part1"></a>Part 1: Foundational C
+**<a name="Part1"></a>Part 1: Foundational C
 Chapter 1: An Overview of C
 
 Chapter 2: Expressions
@@ -41,11 +41,11 @@ Chapter 10: The Preprocessor and Comments
 
 
 
-#<a name="Part2"></a>Part 2: The C99 Standard
+**<a name="Part2"></a>Part 2: The C99 Standard
 Chapter 11: C99
 
 
-#<a name="Part3"></a>Part 3: The C99 Standard Library
+**<a name="Part3"></a>Part 3: The C99 Standard Library
 Chapter 12: Linking, Libraries, and Headers
 
 Chapter 13: I/O Functions
@@ -66,7 +66,7 @@ Chapter 20: Library Features Added by C99
 
 
 
-#<a name="Part4"></a>Part 4: Algorithms and Applications
+**<a name="Part4"></a>Part 4: Algorithms and Applications
 
 Chapter 21: Sorting and Searching
 
@@ -79,7 +79,7 @@ Chapter 24: Expression Parsing and Evaluation
 Chapter 25: 
 AI-Based Problem Solving
 
-#<a name="Part5"></a>Part 5: Software Development Using C
+**<a name="Part5"></a>Part 5: Software Development Using C
 
 Chapter 26: Building a Windows 2000 Skeleton
 
@@ -89,7 +89,7 @@ Chapter 28: Efficiency, Porting, and Debugging
 
 
 
-#<a name="Part6"></a>Part 6: A C Interpreter
+**<a name="Part6"></a>Part 6: A C Interpreter
 
 Chapter 29: A C Interpreter
 
