@@ -80,7 +80,7 @@ defined in <math.h> and <complex.h>
 *<fenv.h>* – provides access to floating-point status flags and
 control modes
 
-**C Is a Middle-Level Language 
+**C Is a Middle-Level Language**
 
 Middle-Level Language? The middle-level language lies in between the low-level and high-level language.
 
