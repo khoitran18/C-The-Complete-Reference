@@ -32,7 +32,81 @@ This page's outline follow the original outline of **C: The Complete Reference, 
 
 **<a name="Part1"></a>Part 1: Foundational C**
 
-Chapter 1: An Overview of C
+**Chapter 1: An Overview of C
+
+**A Brief History of C
+
+In this section, we all noticed that C89/C99 is mentioned. So, what is the difference between them? 
+
+*Comments* – In C99 we can use a line comment that begins with //
+
+*Identifiers* – C89 requires compilers to remember the first 31 characters vs. 63 characters in C99
+Only the first 6 characters of names with external linkage are significant in C89 (no case sensitive)
+In C99, it is the first 31 characters and case of letters matters
+
+*Keywords* – 5 new keywords in C99: inline, restrict, _Bool, _Complex, and _Imaginary
+
+*Expressions*
+
+In C89, the results of **/** and **%** operators for a negative operand can be rounded either up or down. The sign of **i % j** for negative i or j depends on the implementation.
+In C99, the result is always truncated toward zero and the sign of **i % j** is the sign of i.
+
+*Bool type* – C99 provides _Bool type and macros in stdbool.h
+
+*Loops* – C99 allows to declare control variable(s) in the first statement of the **for** loop
+
+*Arrays* – C99 has **designated initializers** and also allows to use **variable-length arrays**
+
+*Functions* – one of the directly visible changes is:
+In C89, declarations must precede statements within a block. In C99, it cam be mixed.
+
+*Preprocessor* – e.g.,
+-C99 allows macros with a variable number of arguments
+-C99 introduces __func__ macro which behaves as a strin
+
+*Input/Output* – conversion specification for the *printf() and *scanf() functions has been significantly changed in C99.
+
+*<stdbool.h>* – macros false and true that denote the logical values 0 and 1, respectively
+
+*<stdint.h>8 – integer types with specified widths <inttypes.h> – macros for input/output of types specified in
+<stdint.h>
+
+*<complex.h>* – functions to perform mathematical operations on
+complex numbers
+
+*<tgmath.h>* – type-generic macros for easier call of functions
+defined in <math.h> and <complex.h>
+
+*<fenv.h>* – provides access to floating-point status flags and
+control modes
+
+**C Is a Middle-Level Language 
+
+Middle-Level Language? The middle-level language lies in between the low-level and high-level language.
+
+The middle-level programming language interacts with the abstraction layer of a computer system. It serves as the bridge between the raw hardware and programming layer of the computer system. The middle-level language is also known as the intermediate programming language and pseudo-language.
+
+The middle-level language is an output of any programming language, which is known as source code. The source code is written in a high-level language. This kind of middle-level language is designed to improve the translated code before the processor executes it.
+
+The C language is the middle-level language because it has only 32 keywords: it takes less translation time like low-level language. We can do many works of low-level language through C language. There is a different type of data types used in the C language. The four common data types which are: char, int, float, double, etc. Each data type plays a unique role in the C language.
+
+In conclusion, the C Programing language is the middle-level language due to these strengths: 
+-Fast and Efficient 
+-Rich library functions
+-Portable, Modularity
+-Easy to extend 
+-Variety of data type and dominant operators
+-Recusion
+-Structured 
+-Simple
+-Extensible
+-Mid-level
+-Pointers
+(All the points mentioned above will be described further later in this book.)
+
+**C Is a Structured Language**
+
+
 
 Chapter 2: Expressions
 
