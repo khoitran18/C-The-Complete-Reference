@@ -32,9 +32,9 @@ This page's outline follow the original outline of **C: The Complete Reference, 
 
 **<a name="Part1"></a>Part 1: Foundational C**
 
-**Chapter 1: An Overview of C
+**Chapter 1: An Overview of C**
 
-**A Brief History of C
+**A Brief History of C**
 
 In this section, we all noticed that C89/C99 is mentioned. So, what is the difference between them? 
 
@@ -68,7 +68,7 @@ In C89, declarations must precede statements within a block. In C99, it cam be m
 
 *<stdbool.h>* – macros false and true that denote the logical values 0 and 1, respectively
 
-*<stdint.h>8 – integer types with specified widths <inttypes.h> – macros for input/output of types specified in
+*<stdint.h>* – integer types with specified widths <inttypes.h> – macros for input/output of types specified in
 <stdint.h>
 
 *<complex.h>* – functions to perform mathematical operations on
