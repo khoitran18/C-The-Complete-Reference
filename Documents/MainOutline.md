@@ -106,6 +106,16 @@ In conclusion, the C Programing language is the middle-level language due to the
 
 **C Is a Structured Language**
 
+What is **Structured Language** and **Non-Strutured Language**?
+
+The **structured** programming language allows a programmer to code a program by dividing the whole program into smaller units or modules. Structured programming is not suitable for the development of large programs and does not allow reusability of any set of codes. It is a programming paradigm aimed at improving the quality, clarity, and access time of a computer program by the use of subroutines, block structures, for and while loops.
+
+A program in a **non-structured** language usually consists of sequentially ordered commands, or statements, usually one in each line. The lines are usually numbered or may have labels: this allows the flow of execution to jump to any line in the program.
+
+**C Is a Programmer's Language**
+
+**Compilers vs. Interpreters**
+
 
 
 Chapter 2: Expressions
