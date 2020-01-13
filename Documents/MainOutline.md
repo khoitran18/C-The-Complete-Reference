@@ -116,6 +116,11 @@ A program in a **non-structured** language usually consists of sequentially orde
 
 **Compilers vs. Interpreters**
 
+You guys feel confused and cannot distinguish **compilers** vs. **interpreters**?
+
+This post may help you to understand it better. [Difference Between Compiler and Interprete](https://techdifferences.com/difference-between-compiler-and-interpreter.html)
+
+In my opinion, myself can point out the difference between them in this way: After translated by the **compiler**, a file as .exe (just for example) will be generated. Next time you want to use that code again, just run that .exe file without re-translate. With **interpreter**, it translate every single line of the program and run it in the order. In the next time of use, it requires to re-traslate and run.
 
 
 Chapter 2: Expressions
