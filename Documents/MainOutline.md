@@ -124,8 +124,8 @@ In my opinion, myself can point out the difference between them in this way: Aft
 
 **The Form of a C Program**
 
-In this section, the most important point we have to mind is uppercase and lowercase characters. They are totally different. For example, **else** and **ELSE** are two different word. **else** is a keyword while **ELSE** is not. 
-Moreover, we must be careful before decide to use any word as a variable or function name. Make sure that it won't match the keyword in C program.
+In this section, the most important point we have to mind is uppercase and lowercase characters. They are totally different. For example, **else** and **ELSE** are two different words. **else** is a keyword while **ELSE** is not. 
+Moreover, we must be careful before deciding to use any word as a variable or function name. Please make sure that it won't match the keyword in C program.
 A program may consist of one or more functions. However, **main()** is the function will be called first when program execution begins. 
 
 **The Library and Linking**
