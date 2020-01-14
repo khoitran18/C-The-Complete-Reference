@@ -1,6 +1,6 @@
 **<a name="Whatisit"></a>What is it?**
 
-This is my self-study plan to learn C programing language and understand every aspect of it.
+This is my self-study plan to learn C programing language and understand every aspect of it. 
 
 **Table of content**
 
@@ -123,6 +123,12 @@ This post may give you more detail and help you to understand it better. [Differ
 In my opinion, myself can point out the difference between them in this way: After translated by the **compiler**, a file as .exe (just for example) will be generated. Next time you want to use that code again, just run that .exe file without re-translate. With **interpreter**, it translate every single line of the program and run it in the order. In the next time of use, it requires to re-traslate and run.
 
 **The Form of a C Program**
+
+In this section, the most important point we have to mind is uppercase and lowercase characters. They are totally different. For example, **else** and **ELSE** are two different word. **else** is a keyword while **ELSE** is not. 
+Moreover, we must be careful before decide to use any word as a variable or function name. Make sure that it won't match the keyword in C program.
+A program may consist of one or more functions. However, **main()** is the function will be called first when program execution begins. 
+
+**The Library and Linking**
 
 
 
